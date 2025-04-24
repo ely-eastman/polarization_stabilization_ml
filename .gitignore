@@ -13,3 +13,8 @@ Data/basic_datasets/*.tdms
 Data/angles_labled/*.csv
 Direct_prediction_1561/*.png
 Direct_prediction_comparison/*
+Data/basic_datasets/*
+Data/angles_labled/*
+Conditional_recalibration/*
+Direct_prediction_1561/*
+Direct_prediction_comparison/*
