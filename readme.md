@@ -21,7 +21,7 @@ quantum/
 │   └── a.ipynb            # Alternative calibration approach
 │
 ├── requirements.txt       # Optional pip‑install spec
-└── README.me              # You are here
+└── README.md              # You are here
 ```
 
 ### Why two *Data* folders?
