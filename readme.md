@@ -18,7 +18,7 @@ quantum/
 │   └── models/            # Saved PyTorch checkpoints
 │
 ├── Conditional_recalibration/
-│   └── a.ipynb            # Alternative calibration approach
+│   └── Learning.ipynb            # Alternative calibration approach
 │
 ├── requirements.txt       # Optional pip‑install spec
 └── README.md              # You are here
