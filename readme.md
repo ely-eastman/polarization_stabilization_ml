@@ -20,7 +20,6 @@ quantum/
 ├── Conditional_recalibration/
 │   └── a.ipynb            # Alternative calibration approach
 │
-├── utils.py               # Common CSV ↔ Tensor helpers
 ├── requirements.txt       # Optional pip‑install spec
 └── README.me              # You are here
 ```
