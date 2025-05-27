@@ -40,7 +40,6 @@ Phase‑angle views are easier for ML, so `utils.py` provides a safe conversion.
 | **Data 4‑7** | Apr 7 | 1551.7 ± {+1…+10} | 3 h each | `Direct_prediction_1552…1561/` |
 | **Data 8** | Apr 22 | 1551 ↔ 1531 | 3 h | `Direct_prediction_1531/` |
 
-Each folder hosts a self‑contained `a.ipynb` that loads its slice, trains a small 1‑D CNN, and plots results.
 
 ---
 
